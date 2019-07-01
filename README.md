@@ -1,4 +1,10 @@
 # Line_Chatbot
+## 步驟:
+1. 申請Line Developers 並開通channel token
+2. 使用 https://github.com/boybundit/linebot 
+3. run起程式後使用 [ngrok](https://ngrok.com/) 
+4. 至Line Developers確認網址
+
 **webhook:**
 
     {  
